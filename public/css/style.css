@@ -1,0 +1,15 @@
+body{
+  background: gray;
+}
+
+#main-content{
+  width: 500px;
+  margin: 10px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+#chat-output {
+  height: 200px;
+  overflow-y: scroll;
+}
