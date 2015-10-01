@@ -12,7 +12,6 @@ $('#chat').on('submit', function(event){
 })
 
 socket.on('chat', function(message){
-
   append(message)
 })
 
